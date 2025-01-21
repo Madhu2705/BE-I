@@ -1,0 +1,12 @@
+{"method":"GET","url":"/","timestamp":"2025-01-21T14:27:04.529Z"}
+{"method":"GET","url":"/favicon.ico","timestamp":"2025-01-21T14:27:04.573Z"}
+{"method":"GET","url":"/","timestamp":"2025-01-21T14:29:33.702Z"}
+{"method":"GET","url":"/","timestamp":"2025-01-21T14:29:36.384Z"}
+{"method":"GET","url":"/test","timestamp":"2025-01-21T14:36:03.682Z"}
+{"method":"GET","url":"/test","timestamp":"2025-01-21T14:36:37.397Z"}
+{"timestamp":"2025-01-21T14:38:48.875Z","ipAddress":"::1","url":"/","protocol":"http","method":"GET","hostname":"localhost"}
+{"timestamp":"2025-01-21T14:38:53.456Z","ipAddress":"::1","url":"/test","protocol":"http","method":"GET","hostname":"localhost"}
+{"timestamp":"2025-01-21T14:42:08.514Z","ipAddress":"::1","url":"/","protocol":"http","method":"GET","hostname":"localhost"}
+{"timestamp":"2025-01-21T14:42:11.733Z","ipAddress":"::1","url":"/test","protocol":"http","method":"GET","hostname":"localhost"}
+{"timestamp":"2025-01-21T14:42:18.730Z","ipAddress":"::1","url":"/log","protocol":"http","method":"GET","hostname":"localhost"}
+{"timestamp":"2025-01-21T14:42:29.275Z","ipAddress":"::1","url":"/logs","protocol":"http","method":"GET","hostname":"localhost"}
